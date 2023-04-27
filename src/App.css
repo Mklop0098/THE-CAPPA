@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+}
+
+
+.App__wrapper {
+  overflow-y: scroll;
+  height: 100vh;
+  background: url('./assets/pic3.jpg');
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+}

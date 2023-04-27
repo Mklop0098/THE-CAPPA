@@ -1,0 +1,15 @@
+.fivestar__wrapper {
+    display: flex;
+    flex-direction: row;
+    color: orange;
+
+
+    div {
+        padding: 0 3px;
+    }
+
+    svg {
+        margin-right: 4px
+    }
+}
+
