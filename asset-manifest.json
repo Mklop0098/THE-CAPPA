@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-cappa/static/css/main.c62e6a9a.css",
+    "main.js": "/the-cappa/static/js/main.67ea479d.js",
+    "static/media/video.mp4": "/the-cappa/static/media/video.44456485be641d0fe5bf.mp4",
+    "static/media/pic1.jpg": "/the-cappa/static/media/pic1.162e899e1650d2d8a939.jpg",
+    "static/media/pic3.jpg": "/the-cappa/static/media/pic3.ac206977e6c393478b0b.jpg",
+    "static/media/pic2.jpg": "/the-cappa/static/media/pic2.d89ab4b4fe690bb08825.jpg",
+    "static/media/cpic2.jpg": "/the-cappa/static/media/cpic2.64ecda8dad3ad75794e4.jpg",
+    "static/media/cpic1.jpg": "/the-cappa/static/media/cpic1.714b97c68ebdb2435eb2.jpg",
+    "static/media/dpic1.jpg": "/the-cappa/static/media/dpic1.c2fadd2ea7d26ba83695.jpg",
+    "static/media/dpic4.jpg": "/the-cappa/static/media/dpic4.c1a12833d3392faac34e.jpg",
+    "static/media/dpic2.jpg": "/the-cappa/static/media/dpic2.7ae9119c9a7c946d0393.jpg",
+    "static/media/dpic3.jpg": "/the-cappa/static/media/dpic3.74de1b696799e4728f6a.jpg",
+    "index.html": "/the-cappa/index.html",
+    "main.c62e6a9a.css.map": "/the-cappa/static/css/main.c62e6a9a.css.map",
+    "main.67ea479d.js.map": "/the-cappa/static/js/main.67ea479d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62e6a9a.css",
+    "static/js/main.67ea479d.js"
+  ]
+}
